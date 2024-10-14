@@ -1,6 +1,6 @@
 # Trello-Rest-API
 # Manual And Automation API Testing Project 
-This project involves testing the [Trello Rest API](https://fakeapi.platzi.com/](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions) using various tools and technologies including **Postman**, **Newan**, **Jenkins**, and **RestAssured**. The purpose is to automate the testing of API endpoints to ensure their reliability and performance.
+This project involves testing the [Trello Rest API](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions) using various tools and technologies including **Postman**, **Newan**, **Jenkins**, and **RestAssured**. The purpose is to automate the testing of API endpoints to ensure their reliability and performance.
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
