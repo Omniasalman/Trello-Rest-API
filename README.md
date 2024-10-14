@@ -25,3 +25,8 @@ Assertions in Postman check:
 ### 2. Newman Automation
 
 **Newman** is used to run Postman collections from the command line or as part of a CI/CD pipeline. This makes it easy to automate tests across different environments.
+## Contact Information
+
+If you have any questions or need further assistance, please contact me at:
+
+**Email**: [omniasalman928@gmail.com ](omniasalman928@gmail.com)
